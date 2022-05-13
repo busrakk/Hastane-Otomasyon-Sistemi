@@ -1,0 +1,172 @@
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_giris.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_giris.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_kayit.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu.mdb
+C:\Users\fatma nur gebeşoğlu\source\repos\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_randevu_ekrani.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.RandevuEkrani.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.iletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.iletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.RandevuEkrani.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu_yeni.mdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu.mdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu_yeni.mdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.iletisim.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.RandevuEkrani.resources
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\ASUS\Desktop\Yeni klasör (2)\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonetici.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Hasta.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu_yeni.mdb
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Hasta.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonetici.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kayitsecim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yoniletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yondoktorlar.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_kayit.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kayitsecim.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yondoktorlar.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yoniletisim.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.sifre.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonhastalar.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonbilgi.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastabilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu_yeni.mdb
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Hasta.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastabilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.iletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kayitsecim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.RandevuEkrani.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.sifre.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yondoktorlar.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonetici.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonhastalar.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yoniletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgiyedek.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgideneme.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev16aralık\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorkendibilgisi.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\bin\Debug\hastane_otomasyonu_yeni.mdb
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe.config
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\bin\Debug\proje_otomasyon.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.AssemblyReference.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Form1.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgideneme.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgiyedek.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorkendibilgisi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.giris.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Hasta.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastabilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hasta_kayit.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.iletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kayitsecim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.Properties.Resources.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.RandevuEkrani.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.sifre.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yondoktorlar.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonetici.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonhastalar.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yoniletisim.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.GenerateResource.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.exe
+C:\Users\fatma nur gebeşoğlu\Desktop\ödev son\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_randevu.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_randevusil.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_randevu.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktor_randevusil.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastabilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.sifre.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.yonhastalar.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastarandevular.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastarandevusil.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kanbilgi.resources
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.dll
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.xml
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CopyComplete
+C:\Users\fatma nur gebeşoğlu\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.doktorbilgi.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastarandevular.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.hastarandevusil.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.kanbilgi.resources
+C:\Users\ASUS\Desktop\proje_otomasyon\proje_otomasyon\obj\Debug\proje_otomasyon.csproj.CopyComplete
