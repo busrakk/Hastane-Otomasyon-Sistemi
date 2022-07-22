@@ -8,41 +8,34 @@ Hastane yöneticileri, doktorlar ve hastalar için oluşturulmuş bir otomasyon 
 
 Başta hastanede çalışan doktor, yönetici ve hastalar da dahil olmak üzere hastane sistemiyle işi olan herkesi kapsamaktadır.
 
+
 ### Otomasyon Giriş Sayfası
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143282-e00f1ac4-d30b-4db2-a072-7fd652252136.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143282-e00f1ac4-d30b-4db2-a072-7fd652252136.png"></code>
 
 ### Yönetici Giriş
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143530-5f09cf64-7378-4b29-b2f4-1085aef7b30a.png"></code>
+<p float="left">
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143530-5f09cf64-7378-4b29-b2f4-1085aef7b30a.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143579-40c75505-98a0-431b-957b-8f707dbaf57c.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143611-49bee63d-85c5-4560-b7b5-d2de3ebfa9dd.png"></code>
+</p>
 
-#### Yönetici Ekran
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143579-40c75505-98a0-431b-957b-8f707dbaf57c.png"></code>
-
-#### Yönetici Bilgi Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143611-49bee63d-85c5-4560-b7b5-d2de3ebfa9dd.png"></code>
-
-#### Doktor Bilgileri
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143675-01e2d8e7-44c8-484d-8ae3-b532ae849782.png"></code>
-
-#### Kan Grubu Grafiği
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171143939-8fcd7fb5-b1d7-4875-8c7e-af9815f5ccc1.png"></code>
-
-#### Yönetici İletişim Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144013-47c160fd-e0ca-4e89-993f-f5069ac2598f.png"></code>
+<p float="left">
+<code><img height="220" src="https://user-images.githubusercontent.com/62840507/171143675-01e2d8e7-44c8-484d-8ae3-b532ae849782.png"></code>
+<code><img height="200" src="https://user-images.githubusercontent.com/62840507/171143939-8fcd7fb5-b1d7-4875-8c7e-af9815f5ccc1.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144013-47c160fd-e0ca-4e89-993f-f5069ac2598f.png"></code>
+</p>
 
 ### Doktor Giriş Sayfası
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144315-654e4982-6a30-47be-a534-06ab184be00c.png"></code>
+<p float="left">
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144315-654e4982-6a30-47be-a534-06ab184be00c.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144384-d6786335-7d3e-45cb-bb9d-85a2fb440cd3.png"></code>
+</p>
 
-#### Doktor Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144384-d6786335-7d3e-45cb-bb9d-85a2fb440cd3.png"></code>
-
-#### Doktor Bilgi Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144455-48e8f2a5-1340-4429-8dfa-35f43957dedc.png"></code>
-
-#### Doktor Randevu Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144543-8027fe49-1ea0-4617-88db-ed345d7d4c19.png"></code>
-
-#### Doktor Randevu Sorgula ve Sil Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144721-50795733-b8f7-442d-a364-77c3f6a197bf.png"></code>
+<p float="left">
+<code><img height="175" src="https://user-images.githubusercontent.com/62840507/171144455-48e8f2a5-1340-4429-8dfa-35f43957dedc.png"></code>
+<code><img height="175" src="https://user-images.githubusercontent.com/62840507/171144543-8027fe49-1ea0-4617-88db-ed345d7d4c19.png"></code>
+<code><img height="175" src="https://user-images.githubusercontent.com/62840507/171144721-50795733-b8f7-442d-a364-77c3f6a197bf.png"></code>
+</p>
 
 ### Hasta Giriş Ekranı
 <code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144799-3951bef6-1397-420c-a1c8-0074b0d66d49.png"></code>
