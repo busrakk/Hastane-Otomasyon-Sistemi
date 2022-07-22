@@ -24,7 +24,7 @@ Başta hastanede çalışan doktor, yönetici ve hastalar da dahil olmak üzere 
 <code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143675-01e2d8e7-44c8-484d-8ae3-b532ae849782.png"></code>
 
 #### Kan Grubu Grafiği
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171143939-8fcd7fb5-b1d7-4875-8c7e-af9815f5ccc1.png"></code>
+<code><img height="200" src="https://user-images.githubusercontent.com/62840507/171143939-8fcd7fb5-b1d7-4875-8c7e-af9815f5ccc1.png"></code>
 
 #### Yönetici İletişim Ekranı
 <code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144013-47c160fd-e0ca-4e89-993f-f5069ac2598f.png"></code>
@@ -36,10 +36,10 @@ Başta hastanede çalışan doktor, yönetici ve hastalar da dahil olmak üzere 
 <code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144384-d6786335-7d3e-45cb-bb9d-85a2fb440cd3.png"></code>
 
 #### Doktor Bilgi Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144455-48e8f2a5-1340-4429-8dfa-35f43957dedc.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144455-48e8f2a5-1340-4429-8dfa-35f43957dedc.png"></code>
 
 #### Doktor Randevu Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144543-8027fe49-1ea0-4617-88db-ed345d7d4c19.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144543-8027fe49-1ea0-4617-88db-ed345d7d4c19.png"></code>
 
 #### Doktor Randevu Sorgula ve Sil Ekranı
 <code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144721-50795733-b8f7-442d-a364-77c3f6a197bf.png"></code>
