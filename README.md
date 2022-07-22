@@ -38,37 +38,30 @@ Başta hastanede çalışan doktor, yönetici ve hastalar da dahil olmak üzere 
 </p>
 
 ### Hasta Giriş Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144799-3951bef6-1397-420c-a1c8-0074b0d66d49.png"></code>
+<p float="left">
+<code><img height="235" src="https://user-images.githubusercontent.com/62840507/171144799-3951bef6-1397-420c-a1c8-0074b0d66d49.png"></code>
+<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144856-2a7062b1-06c5-4b09-a58d-8f78b9ef6093.png"></code>
+<code><img height="220" src="https://user-images.githubusercontent.com/62840507/171144922-715370ba-f530-49cd-8f9c-05e926bbe67c.png"></code>
+</p>
 
-#### Hasta Ekranı
-<code><img height="350" src="https://user-images.githubusercontent.com/62840507/171144856-2a7062b1-06c5-4b09-a58d-8f78b9ef6093.png"></code>
-
-#### Hasta Bilgi Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171144922-715370ba-f530-49cd-8f9c-05e926bbe67c.png"></code>
-
-#### Hastane Randevu Al Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145048-fc407c52-2c52-4e80-911c-16185fbce2ad.png"></code>
-
-#### Hasta Randevular Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145112-65fbcd82-afc6-48c9-b1ee-f235ec05c9ad.png"></code>
-
-#### Hasta Randevu Sil Ekranı
-<code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145196-ffd50b66-769c-4ae2-80c3-3db421a4e63c.png"></code>
+<p float="left">
+<code><img height="185" src="https://user-images.githubusercontent.com/62840507/171145048-fc407c52-2c52-4e80-911c-16185fbce2ad.png"></code>
+<code><img height="185" src="https://user-images.githubusercontent.com/62840507/171145112-65fbcd82-afc6-48c9-b1ee-f235ec05c9ad.png"></code>
+<code><img height="185" src="https://user-images.githubusercontent.com/62840507/171145196-ffd50b66-769c-4ae2-80c3-3db421a4e63c.png"></code>
+</p>
 
 ### Kayıt Ekranı
+<p float="left">
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145251-ab547ba1-f981-4ca1-916c-718b83ddaea9.png"></code>
-
-#### Hasta Kayıt Ekranı
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145315-31da99d1-3494-4d40-8d19-ff1587d081e9.png"></code>
-
-#### Doktor Kayıt Ekranı
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145394-f606b4fd-2db7-4751-afd9-732cbd0199ad.png"></code>
+</p>
 
 ### İletişim Ekranı
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145479-9fa200c0-4cfb-463c-a4d6-6cd5ac090469.png"></code>
 
 ### Şifremi Unuttum Ekranı
+<p float="left">
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145562-c3d8a1d6-ae28-4b39-83b3-95eecfd05fc7.png"></code>
-
 <code><img height="250" src="https://user-images.githubusercontent.com/62840507/171145592-b263ecc1-7c3d-4812-8d96-4354c9d4be49.png"></code>
-
+</p>
