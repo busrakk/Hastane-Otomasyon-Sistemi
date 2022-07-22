@@ -9,6 +9,7 @@ Hastane yöneticileri, doktorlar ve hastalar için oluşturulmuş bir otomasyon 
 Başta hastanede çalışan doktor, yönetici ve hastalar da dahil olmak üzere hastane sistemiyle işi olan herkesi kapsamaktadır.
 
 ### Otomasyon Giriş Sayfası
+<code><img  title="Python" height="50" src="https://user-images.githubusercontent.com/62840507/171143282-e00f1ac4-d30b-4db2-a072-7fd652252136.png"></code>
 
 ![image](https://user-images.githubusercontent.com/62840507/171143282-e00f1ac4-d30b-4db2-a072-7fd652252136.png)
 
